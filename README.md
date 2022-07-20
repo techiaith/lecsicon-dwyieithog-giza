@@ -10,6 +10,12 @@ Mae dwy ffeil lecsicon yn y storfa, un ar gyfer y Cymraeg i Saesneg, a'r llall a
 * cy-en.dic
 * en-cy.dic
 
+Gweler:
+
+https://bitextor.readthedocs.io/en/latest/CONFIG.html#using-bilingual-lexica
+
+am fanylion defnydd.
+
 # A Bilingual Giza Lexicon
 A Bilingual Welsh/English Lexicon generated using Giza for use within Bitextor.
 
@@ -19,3 +25,9 @@ There ar e two lexicon files in the repo, one for Welsh to English, and the othe
 
 * cy-en.dic
 * en-cy.dic
+
+See:
+
+https://bitextor.readthedocs.io/en/latest/CONFIG.html#using-bilingual-lexica
+
+for details on how to use.
