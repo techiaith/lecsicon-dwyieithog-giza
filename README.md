@@ -14,14 +14,14 @@ Gweler:
 
 https://bitextor.readthedocs.io/en/latest/CONFIG.html#using-bilingual-lexica
 
-am fanylion defnydd.
+am enghreifftiau defnydd.
 
 # A Bilingual Giza Lexicon
 A Bilingual Welsh/English Lexicon generated using Giza for use within Bitextor.
 
 The lexicon was generated automatically, so not all alignments will be valid, but the non-valid alignments should have a lower associated value. 
 
-There ar e two lexicon files in the repo, one for Welsh to English, and the other for English to Welsh:
+There are two lexicon files in the repo, one for Welsh to English, and the other for English to Welsh:
 
 * cy-en.dic
 * en-cy.dic
@@ -30,4 +30,4 @@ See:
 
 https://bitextor.readthedocs.io/en/latest/CONFIG.html#using-bilingual-lexica
 
-for details on how to use.
+for examples of usage.
